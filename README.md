@@ -24,8 +24,14 @@ Bientôt des liens pour télécharger :
 
 ### Cibles
 
-* `make` construit
+* `make` ou `make book` construit
     * tous les .pdf à partir des .mscz
-    * bientôt les .pdf dans les autres tonalités
-    * bientôt les books
+    * une fusion des .pdf, nommée `book.pdf`
+* `make mscz2pdf` construit
+    * tous les .pdf à partir des .mscz
 * `make clean` supprime tous les .pdf
+
+Reste à faire :
+
+    * les .pdf dans les autres tonalités
+    * tous les books
