@@ -34,5 +34,9 @@ mscz2pdf_Eb: $(PDFS_Eb)
 $(PDFS):
 	mscore "$(subst pdf,mscz,$@)" -o "$@"
 
+dl:
+	python3 build_dl.py
+
 clean:
 	rm -f pdf/*.pdf books/*.pdf
+	rm -f dl.md
