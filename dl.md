@@ -1,5 +1,13 @@
 # Téléchargements
 
+# Books
+
+* [book en Ut](books/book.C.pdf
+* [book en Bb](books/book.Bb.pdf
+* [book en Eb](books/book.Eb.pdf
+
+# Individuels
+
 * Afro blue ([C](pdf/Afro blue.C.pdf) [Bb](pdf/Afro blue.Bb.pdf) [Eb](pdf/Afro blue.Eb.pdf))
 * All blues ([C](pdf/All blues.C.pdf) [Bb](pdf/All blues.Bb.pdf) [Eb](pdf/All blues.Eb.pdf))
 * All of me ([C](pdf/All of me.C.pdf) [Bb](pdf/All of me.Bb.pdf) [Eb](pdf/All of me.Eb.pdf))
@@ -61,7 +69,7 @@
 * Love me or leave me ([C](pdf/Love me or leave me.C.pdf) [Bb](pdf/Love me or leave me.Bb.pdf) [Eb](pdf/Love me or leave me.Eb.pdf))
 * Lover man ([C](pdf/Lover man.C.pdf) [Bb](pdf/Lover man.Bb.pdf) [Eb](pdf/Lover man.Eb.pdf))
 * Lullaby of birdland ([C](pdf/Lullaby of birdland.C.pdf) [Bb](pdf/Lullaby of birdland.Bb.pdf) [Eb](pdf/Lullaby of birdland.Eb.pdf))
-* Mister PC ([C](pdf/Mister PC.C.pdf) [Bb](pdf/Mister PC.Bb.pdf) [Eb](pdf/Mister PC.Eb.pdf))
+* Mr PC ([C](pdf/Mr PC.C.pdf) [Bb](pdf/Mr PC.Bb.pdf) [Eb](pdf/Mr PC.Eb.pdf))
 * Misty ([C](pdf/Misty.C.pdf) [Bb](pdf/Misty.Bb.pdf) [Eb](pdf/Misty.Eb.pdf))
 * Mood indigo ([C](pdf/Mood indigo.C.pdf) [Bb](pdf/Mood indigo.Bb.pdf) [Eb](pdf/Mood indigo.Eb.pdf))
 * More I see you (The) ([C](pdf/More I see you (The).C.pdf) [Bb](pdf/More I see you (The).Bb.pdf) [Eb](pdf/More I see you (The).Eb.pdf))
