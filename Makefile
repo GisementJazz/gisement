@@ -1,16 +1,37 @@
-SRCS=$(shell find mscz/* | sed 's: :\\ :g')
-TGTS_PDF=$(subst mscz,pdf,$(SRCS))
+SRCS_C=$(shell find mscz/*.C.mscz | sed 's: :\\ :g')
+SRCS_Bb=$(shell find mscz/*.Bb.mscz | sed 's: :\\ :g')
+SRCS_Eb=$(shell find mscz/*.Eb.mscz | sed 's: :\\ :g')
+
+PDFS_C=$(subst mscz,pdf,$(SRCS_C))
+PDFS_Bb=$(subst mscz,pdf,$(SRCS_Bb))
+PDFS_Eb=$(subst mscz,pdf,$(SRCS_Eb))
+PDFS=$(PDFS_C) $(PDFS_Bb) $(PDFS_Eb)
+
 opening_par := (
 closing_par := )
 escape_parens = $(subst $(closing_par),\$(closing_par),$(subst $(opening_par),\$(opening_par),$1))
-ESCAPED=$(call escape_parens,$(TGTS_PDF))
+ESCAPED_C=$(call escape_parens,$(PDFS_C))
+ESCAPED_Bb=$(call escape_parens,$(PDFS_Bb))
+ESCAPED_Eb=$(call escape_parens,$(PDFS_Eb))
 
-book: mscz2pdf
-	convert $(ESCAPED) books/book.pdf
+books: book_C book_Bb book_Eb
 
-mscz2pdf: $(TGTS_PDF)
+book_C: mscz2pdf_C
+	convert $(ESCAPED_C) books/book_C.pdf
 
-$(TGTS_PDF):
+book_Bb: mscz2pdf_Bb
+	convert $(ESCAPED_Bb) books/book_Bb.pdf
+
+book_Eb: mscz2pdf_Eb
+	convert $(ESCAPED_Eb) books/book_Eb.pdf
+
+mscz2pdf_C: $(PDFS_C)
+
+mscz2pdf_Bb: $(PDFS_Bb)
+
+mscz2pdf_Eb: $(PDFS_Eb)
+
+$(PDFS):
 	mscore "$(subst pdf,mscz,$@)" -o "$@"
 
 clean:
