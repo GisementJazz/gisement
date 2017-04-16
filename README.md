@@ -2,18 +2,14 @@
 
 ## Pour les utilisateurs
 
-Fichiers pour l’association :
+[Page de téléchargements](https://gisementjazz.github.io/gisement/dl.html)
 
-* `.mscz` : fichier Musescore
-* `.pdf` : fichier pdf « Concert key » (ou « en Ut »)
-* `.Bb.pdf` : fichier pdf version Si bémol
-* `.Eb.pdf` : fichier pdf version Mi bémol
+Dans [le dépôt de travail](https://github.com/GisementJazz/gisement),
+les fichiers pour l’association sont répartis dans les dossiers :
 
-Bientôt des liens pour télécharger :
-
-* tous les .pdf en Ut, ou en Bb, ou en Eb ;
-* un book en Ut, en Bb ou en Eb ;
-* tous les .mscz.
+* `books` : books dans les trois tonalités
+* `mscz` : fichiers Musescore
+* `pdf` : fichiers pdf
 
 ## Pour les développeurs
 
@@ -24,14 +20,17 @@ Bientôt des liens pour télécharger :
 
 ### Cibles
 
-* `make` ou `make book` construit
+* `make` ou `make books` construit
     * tous les .pdf à partir des .mscz
-    * une fusion des .pdf, nommée `book.pdf`
-* `make mscz2pdf` construit
-    * tous les .pdf à partir des .mscz
-* `make clean` supprime tous les .pdf
-
-Reste à faire :
-
-    * les .pdf dans les autres tonalités
-    * tous les books
+    * des fusions des .pdf, nommées `book.C.pdf`, `book.Bb.pdf` et `book.Eb.pdf`
+* `make book_C`, `make book_Bb` et `make book_Eb` construisent
+    * tous les .pdf dans la tonalité correspondante à partir des .mscz
+      correspondants
+    * le book correspondant
+* `make mscz2pdf_C` `make mscz2pdf_Bb` `make mscz2pdf_Eb` construisent
+    * tous les .pdf dans la tonalité correspondante à partir des .mscz
+      correspondants
+* `make dl` construit le fichier `dl.md`
+* `make clean` suppriment
+    * tous les .pdf
+    * le fichier `dl.md`
