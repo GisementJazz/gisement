@@ -2,9 +2,9 @@
 
 # Books
 
-* [book en Ut](books/book.C.pdf
-* [book en Bb](books/book.Bb.pdf
-* [book en Eb](books/book.Eb.pdf
+* [book en Ut](books/book.C.pdf)
+* [book en Bb](books/book.Bb.pdf)
+* [book en Eb](books/book.Eb.pdf)
 
 # Individuels
 
