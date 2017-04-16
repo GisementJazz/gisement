@@ -24,5 +24,11 @@ with open("liste.txt") as f:
 
 with open(report_file, "a") as f:
     f.write("# Téléchargements\n\n")
+    f.write("# Books\n\n")
+    f.write("* [book en Ut](books/book.C.pdf\n")
+    f.write("* [book en Bb](books/book.Bb.pdf\n")
+    f.write("* [book en Eb](books/book.Eb.pdf\n")
+    f.write("\n")
+    f.write("# Individuels\n\n")
     for song, slug in content:
         f.write("* " + song + " (" + links(slug) + ")\n")
