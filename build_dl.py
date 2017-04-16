@@ -3,6 +3,7 @@
 import os
 
 report_file = "dl.md"
+os.remove(report_file)
 
 def slug(song):
     return song.translate(str.maketrans("'ï", "_i"))
