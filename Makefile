@@ -17,13 +17,13 @@ ESCAPED_Eb=$(call escape_parens,$(PDFS_Eb))
 books: book_C book_Bb book_Eb
 
 book_C: mscz2pdf_C
-	convert $(ESCAPED_C) books/book_C.pdf
+	convert $(ESCAPED_C) books/book.C.pdf
 
 book_Bb: mscz2pdf_Bb
-	convert $(ESCAPED_Bb) books/book_Bb.pdf
+	convert $(ESCAPED_Bb) books/book.Bb.pdf
 
 book_Eb: mscz2pdf_Eb
-	convert $(ESCAPED_Eb) books/book_Eb.pdf
+	convert $(ESCAPED_Eb) books/book.Eb.pdf
 
 mscz2pdf_C: $(PDFS_C)
 
