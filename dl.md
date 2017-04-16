@@ -1,12 +1,12 @@
 # Téléchargements
 
-# Books
+## Books
 
 * [book en Ut](books/book.C.pdf)
 * [book en Bb](books/book.Bb.pdf)
 * [book en Eb](books/book.Eb.pdf)
 
-# Individuels
+## Individuels
 
 * Afro blue ([C](pdf/Afro blue.C.pdf) [Bb](pdf/Afro blue.Bb.pdf) [Eb](pdf/Afro blue.Eb.pdf))
 * All blues ([C](pdf/All blues.C.pdf) [Bb](pdf/All blues.Bb.pdf) [Eb](pdf/All blues.Eb.pdf))
