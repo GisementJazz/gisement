@@ -17,6 +17,7 @@ les fichiers pour l’association sont répartis dans les dossiers :
 
 * `make` ([site officiel](https://www.gnu.org/software/make/))
 * `mscore` (MuseScore, [site officiel](musescore.org))
+* `convert`, une commande de ImageMagick ([site officiel](http://www.imagemagick.org/))
 * copier `transpose.*.qml` fournis dans le dépôt dans
   `/usr/share/mscore/plugins` (ou similaire)
 
