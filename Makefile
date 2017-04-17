@@ -14,7 +14,7 @@ ESCAPED_C=$(call escape_parens,$(PDFS_C))
 ESCAPED_Bb=$(call escape_parens,$(PDFS_Bb))
 ESCAPED_Eb=$(call escape_parens,$(PDFS_Eb))
 
-books: book_C book_Bb book_Eb
+books: book_C book_Bb book_Eb dl
 
 book_C: mscz2pdf_C
 	convert $(ESCAPED_C) books/book.C.pdf
