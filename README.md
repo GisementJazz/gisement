@@ -17,15 +17,21 @@ les fichiers pour l’association sont répartis dans les dossiers :
 
 * `make` ([site officiel](https://www.gnu.org/software/make/))
 * `mscore` (MuseScore, [site officiel](musescore.org))
+* copier `transpose.*.qml` fournis dans le dépôt dans
+  `/usr/share/mscore/plugins` (ou similaire)
 
 ### Cibles
+
+Lors de la construction des pdf en Ut, si le `.mscz` en Bb n’est pas trouvé,
+la transposition est faite automatiquement. Idem pour Eb. C’est pour cela que
+les versions en Ut sont construites de toutes façons.
 
 * `make` ou `make books` construit
     * tous les .pdf à partir des .mscz
     * des fusions des .pdf, nommées `book.C.pdf`, `book.Bb.pdf` et `book.Eb.pdf`
 * `make book_C`, `make book_Bb` et `make book_Eb` construisent
     * tous les .pdf dans la tonalité correspondante à partir des .mscz
-      correspondants
+      correspondants (notez que les versions C sont construites de toutes façons)
     * le book correspondant
 * `make mscz2pdf_C` `make mscz2pdf_Bb` `make mscz2pdf_Eb` construisent
     * tous les .pdf dans la tonalité correspondante à partir des .mscz

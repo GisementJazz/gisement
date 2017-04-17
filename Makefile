@@ -19,10 +19,10 @@ books: book_C book_Bb book_Eb
 book_C: mscz2pdf_C
 	convert $(ESCAPED_C) books/book.C.pdf
 
-book_Bb: mscz2pdf_Bb
+book_Bb: mscz2pdf_C mscz2pdf_Bb
 	convert $(ESCAPED_Bb) books/book.Bb.pdf
 
-book_Eb: mscz2pdf_Eb
+book_Eb: mscz2pdf_C mscz2pdf_Eb
 	convert $(ESCAPED_Eb) books/book.Eb.pdf
 
 mscz2pdf_C: $(PDFS_C)
@@ -31,7 +31,15 @@ mscz2pdf_Bb: $(PDFS_Bb)
 
 mscz2pdf_Eb: $(PDFS_Eb)
 
-$(PDFS):
+pdf/%.C.pdf:
+	mscore "$(subst pdf,mscz,$@)" -o "$@"
+	if [ -z "$(strip $(filter $(subst .C.,.Bb.,$@),$(PDFS_Bb)))" ]; then mscore "$(subst pdf,mscz,$@)" -p transpose.Bb.qml -o "$(subst .C.,.Bb.,$@)"; fi
+	if [ -z "$(strip $(filter $(subst .C.,.Eb.,$@),$(PDFS_Eb)))" ]; then mscore "$(subst pdf,mscz,$@)" -p transpose.Eb.qml -o "$(subst .C.,.Eb.,$@)"; fi
+
+pdf/%.Bb.pdf:
+	mscore "$(subst pdf,mscz,$@)" -o "$@"
+
+pdf/%.Eb.pdf:
 	mscore "$(subst pdf,mscz,$@)" -o "$@"
 
 dl:
