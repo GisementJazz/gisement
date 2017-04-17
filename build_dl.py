@@ -3,7 +3,11 @@
 import os
 
 report_file = "dl.md"
-os.remove(report_file)
+
+try:
+    os.remove(report_file)
+except OSError:
+    pass
 
 def slug(song):
     return song.translate(str.maketrans("'ï", "_i"))
