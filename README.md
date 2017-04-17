@@ -31,6 +31,6 @@ les fichiers pour l’association sont répartis dans les dossiers :
     * tous les .pdf dans la tonalité correspondante à partir des .mscz
       correspondants
 * `make dl` construit le fichier `dl.md`
-* `make clean` suppriment
+* `make clean` supprime
     * tous les .pdf
     * le fichier `dl.md`
