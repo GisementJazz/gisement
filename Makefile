@@ -7,13 +7,6 @@ PDFS_Bb=$(subst mscz,pdf,$(SRCS_Bb))
 PDFS_Eb=$(subst mscz,pdf,$(SRCS_Eb))
 PDFS=$(PDFS_C) $(PDFS_Bb) $(PDFS_Eb)
 
-opening_par := (
-closing_par := )
-escape_parens = $(subst $(closing_par),\$(closing_par),$(subst $(opening_par),\$(opening_par),$1))
-ESCAPED_C=$(call escape_parens,$(PDFS_C))
-ESCAPED_Bb=$(call escape_parens,$(PDFS_Bb))
-ESCAPED_Eb=$(call escape_parens,$(PDFS_Eb))
-
 books: books/book.C.pdf books/book.Bb.pdf books/book.Eb.pdf dl
 
 book_C: books/book.C.pdf
@@ -21,13 +14,13 @@ book_Bb: books/book.Bb.pdf
 book_Eb: books/book.Eb.pdf
 
 books/book.C.pdf: $(PDFS_C)
-	convert $(ESCAPED_C) books/book.C.pdf
+	convert pdf/*.C.pdf books/book.C.pdf
 
 books/book.Bb.pdf: $(PDFS_C) $(PDFS_Bb)
-	convert $(ESCAPED_Bb) books/book.Bb.pdf
+	convert pdf/*.Bb.pdf books/book.Bb.pdf
 
 books/book.Eb.pdf: $(PDFS_C) $(PDFS_Eb)
-	convert $(ESCAPED_Eb) books/book.Eb.pdf
+	convert pdf/*.Eb.pdf books/book.Eb.pdf
 
 mscz2pdf_C: $(PDFS_C)
 
