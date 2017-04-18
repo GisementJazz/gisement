@@ -80,7 +80,7 @@
 * Nardis ([C](pdf/Nardis.C.pdf) [Bb](pdf/Nardis.Bb.pdf) [Eb](pdf/Nardis.Eb.pdf))
 * Nature boy (C Bb Eb)
 * Night and day (C Bb Eb)
-* Night in Tunisia (Afficher) (C Bb Eb)
+* Night in Tunisia (A) ([C](pdf/Night in Tunisia (A).C.pdf) [Bb](pdf/Night in Tunisia (A).Bb.pdf) [Eb](pdf/Night in Tunisia (A).Eb.pdf))
 * No more blues (Chega de saudade) ([C](pdf/No more blues (Chega de saudade).C.pdf) [Bb](pdf/No more blues (Chega de saudade).Bb.pdf) [Eb](pdf/No more blues (Chega de saudade).Eb.pdf))
 * Nostalgia in Times Square ([C](pdf/Nostalgia in Times Square.C.pdf) [Bb](pdf/Nostalgia in Times Square.Bb.pdf) [Eb](pdf/Nostalgia in Times Square.Eb.pdf))
 * Now's the time (C Bb Eb)
