@@ -19,7 +19,10 @@ def pdf_url(slug, key):
     return "pdf/" + slug + "." + key + ".pdf"
 
 def pdf_link(slug, key):
-    return "[" + key + "](" + pdf_url(slug, key) + ")"
+    url = pdf_url(slug, key)
+    if not os.path.isfile(url):
+        return key
+    return "[" + key + "](" + url + ")"
 
 def links(slug):
     return str.join(" ", [pdf_link(slug, key) for key in ["C", "Bb", "Eb"]])
