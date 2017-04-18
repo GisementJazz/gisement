@@ -45,7 +45,7 @@
 * Gentle rain (C Bb Eb)
 * Girl from Ipanema (C Bb Eb)
 * God bless the child (C Bb Eb)
-* Good bye Pork pie hat (C Bb Eb)
+* Goodbye pork pie hat ([C](pdf/Goodbye pork pie hat.C.pdf) [Bb](pdf/Goodbye pork pie hat.Bb.pdf) [Eb](pdf/Goodbye pork pie hat.Eb.pdf))
 * Green dolphin street (C Bb Eb)
 * Have you met Miss Jones (C Bb Eb)
 * Honeysuckle rose (C Bb Eb)
