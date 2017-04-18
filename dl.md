@@ -58,7 +58,7 @@
 * I'm beginning to see the light ([C](pdf/I_m beginning to see the light.C.pdf) [Bb](pdf/I_m beginning to see the light.Bb.pdf) [Eb](pdf/I_m beginning to see the light.Eb.pdf))
 * Impressions ([C](pdf/Impressions.C.pdf) [Bb](pdf/Impressions.Bb.pdf) [Eb](pdf/Impressions.Eb.pdf))
 * In a sentimental mood ([C](pdf/In a sentimental mood.C.pdf) [Bb](pdf/In a sentimental mood.Bb.pdf) [Eb](pdf/In a sentimental mood.Eb.pdf))
-* In walked Bud (C Bb Eb)
+* In Walked Bud ([C](pdf/In Walked Bud.C.pdf) [Bb](pdf/In Walked Bud.Bb.pdf) [Eb](pdf/In Walked Bud.Eb.pdf))
 * In your own sweet way (C Bb Eb)
 * It could happen to you ([C](pdf/It could happen to you.C.pdf) [Bb](pdf/It could happen to you.Bb.pdf) [Eb](pdf/It could happen to you.Eb.pdf))
 * Jelly Roll (C Bb Eb)
