@@ -7,9 +7,14 @@
 Dans [le dépôt de travail](https://github.com/GisementJazz/gisement),
 les fichiers pour l’association sont répartis dans les dossiers :
 
-* `books` : books dans les trois tonalités
-* `mscz` : fichiers Musescore
+* `books` : books dans les trois tonalités, format pdf
+* `mscz` : fichiers MuseScore
 * `pdf` : fichiers pdf
+
+Les pdfs sont générés automatiquement depuis les fichiers MuseScore.
+Si une partition n’a pas de version transposée, un outil de transposition
+mécanique est utilisée. Il peut donc rester quelques problèmes, mais il suffit
+d’ajouter le ficher MuseScore retouché à la main.
 
 ## Pour les développeurs
 
