@@ -61,7 +61,7 @@
 * In Walked Bud ([C](pdf/In Walked Bud.C.pdf) [Bb](pdf/In Walked Bud.Bb.pdf) [Eb](pdf/In Walked Bud.Eb.pdf))
 * In your own sweet way (C Bb Eb)
 * It could happen to you ([C](pdf/It could happen to you.C.pdf) [Bb](pdf/It could happen to you.Bb.pdf) [Eb](pdf/It could happen to you.Eb.pdf))
-* Jelly Roll (C Bb Eb)
+* Jelly roll ([C](pdf/Jelly roll.C.pdf) [Bb](pdf/Jelly roll.Bb.pdf) [Eb](pdf/Jelly roll.Eb.pdf))
 * Joy Spring (C Bb Eb)
 * Just friends (C Bb Eb)
 * Lonnie's lament ([C](pdf/Lonnie_s lament.C.pdf) [Bb](pdf/Lonnie_s lament.Bb.pdf) [Eb](pdf/Lonnie_s lament.Eb.pdf))
