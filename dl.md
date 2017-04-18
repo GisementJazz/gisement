@@ -120,7 +120,7 @@
 * Wave (C Bb Eb)
 * We'll be together again ([C](pdf/We_ll be together again.C.pdf) [Bb](pdf/We_ll be together again.Bb.pdf) [Eb](pdf/We_ll be together again.Eb.pdf))
 * Well you needn't (C Bb Eb)
-* What a wonderful word (C Bb Eb)
+* What a wonderful world ([C](pdf/What a wonderful world.C.pdf) [Bb](pdf/What a wonderful world.Bb.pdf) [Eb](pdf/What a wonderful world.Eb.pdf))
 * What is this thing called love (C Bb Eb)
 * Whisper not (C Bb Eb)
 * Work song ([C](pdf/Work song.C.pdf) [Bb](pdf/Work song.Bb.pdf) [Eb](pdf/Work song.Eb.pdf))
