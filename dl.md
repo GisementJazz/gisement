@@ -93,7 +93,7 @@
 * Pent-up house (C Bb Eb)
 * Perdido (C Bb Eb)
 * Recorda-me (C Bb Eb)
-* Red Clay (C Bb Eb)
+* Red clay ([C](pdf/Red clay.C.pdf) [Bb](pdf/Red clay.Bb.pdf) [Eb](pdf/Red clay.Eb.pdf))
 * Satin doll (C Bb Eb)
 * Scrapple from the apple ([C](pdf/Scrapple from the apple.C.pdf) [Bb](pdf/Scrapple from the apple.Bb.pdf) [Eb](pdf/Scrapple from the apple.Eb.pdf))
 * Shadow of your smile (The) (C Bb Eb)
