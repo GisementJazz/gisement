@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Vidéos</title>
+    <link href="/gisement/assets/css/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container markdown-body">
+
+<script>
+var pageName = "video.html";
+var url = location.href;
+// + 1 for the question mark
+var queryString = url.substring(url.indexOf(pageName) + pageName.length + 1);
+if (queryString == "") {
+    document.write("<h1>Pas de vidéo pour ce morceau !</h1>");
+} else {
+    var codes = queryString.split('/');
+    codes.forEach(function(code) {
+        document.write('<iframe width="560" height="315" ');
+        document.write('src="https://www.youtube.com/embed/' + code + '" ');
+        document.write('frameborder="0" allowfullscreen></iframe>');
+    });
+}
+</script>
+
+    </div>
+  </body>
+</html>

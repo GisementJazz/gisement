@@ -24,8 +24,17 @@ def pdf_link(slug, key):
         return key
     return "[" + key + "](" + url + ")"
 
+def video_link(slug):
+    videos_file = "videos/" + slug + ".txt"
+    if not os.path.isfile(videos_file):
+        return "videos"
+    with open(videos_file) as f:
+        codes = [line.strip() for line in f.readlines()]
+    return "[videos](video.html?" + "/".join(codes) + ")"
+
 def links(slug):
-    return str.join(" ", [pdf_link(slug, key) for key in ["C", "Bb", "Eb"]])
+    pdfs = [pdf_link(slug, key) for key in ["C", "Bb", "Eb"]]
+    return video_link(slug) + " " + str.join(" ", pdfs)
 
 with open("liste.txt") as f:
     content = [song_and_slug(line.strip()) for line in f.readlines()]
