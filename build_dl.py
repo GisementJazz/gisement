@@ -47,5 +47,6 @@ with open(report_file, "a") as f:
     f.write("* [book en Eb](books/book.Eb.pdf)\n")
     f.write("\n")
     f.write("## Individuels\n\n")
+    f.write("[Dernières vidéos](videos.html)\n\n")
     for song, slug in content:
         f.write("* " + song + " (" + links(slug) + ")\n")

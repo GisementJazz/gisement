@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Vidéos</title>
+    <link href="/gisement/assets/css/style.css" rel="stylesheet">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <style type="text/css">
+        ul.liste {list-style: none;}
+        ul.liste li {padding-bottom: 5px;}
+    </style>
+  </head>
+  <body>
+    <div class="container markdown-body">
+
+<h1>Dernières vidéos ajoutées</h1>
+<div id="liste"></div>
+<script type="text/javascript">
+    var target_elt = $('#liste');
+	var url = "https://api.github.com/repos/GisementJazz/gisement/commits?path=videos";
+    var request = $.get(url, {}, function() {}, 'jsonp');
+    request.done(function(data) {
+        var ul = $('<ul/>').addClass('liste').appendTo(target_elt);
+        $.each(data.data, function(i, item) {
+            var li = $('<li/>').appendTo(ul);
+            $("<a/>").attr("href", item.html_url)
+                .html(item.commit.message)
+                .appendTo(li);
+                li.append(", " + item.commit.author.date);
+            if ( i === 100 ) {  // max items
+                return false;
+            }
+        });
+    });
+</script>
+</script>
+
+    </div>
+  </body>
+</html>

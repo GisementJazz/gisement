@@ -8,6 +8,8 @@
 
 ## Individuels
 
+[Dernières vidéos](videos.html)
+
 * Afro blue ([videos](video.html?HuOfm6nSW4A) C Bb Eb)
 * All blues ([videos](video.html?JIfdYs8WErM/4X0W_Jb592g/acbG46Xo6zw/Nn2DmM55sPk/1V13diBjwYc) C Bb Eb)
 * All of me ([videos](video.html?ezcY9-QvJiM) C Bb Eb)
