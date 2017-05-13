@@ -84,7 +84,7 @@
 * Night and day ([videos](video.html?qplFFg9mK2g) C Bb Eb)
 * Night in Tunisia (A) ([videos](video.html?KxibMBV3nFo) [C](pdf/Night in Tunisia (A).C.pdf) [Bb](pdf/Night in Tunisia (A).Bb.pdf) [Eb](pdf/Night in Tunisia (A).Eb.pdf))
 * No more blues (Chega de saudade) ([videos](video.html?-c6Zbi3tbMg) [C](pdf/No more blues (Chega de saudade).C.pdf) [Bb](pdf/No more blues (Chega de saudade).Bb.pdf) [Eb](pdf/No more blues (Chega de saudade).Eb.pdf))
-* Nostalgia in Times Square ([videos](video.html?) [C](pdf/Nostalgia in Times Square.C.pdf) [Bb](pdf/Nostalgia in Times Square.Bb.pdf) [Eb](pdf/Nostalgia in Times Square.Eb.pdf))
+* Nostalgia in Times Square ([videos](video.html?yO4uzZ2j050) [C](pdf/Nostalgia in Times Square.C.pdf) [Bb](pdf/Nostalgia in Times Square.Bb.pdf) [Eb](pdf/Nostalgia in Times Square.Eb.pdf))
 * Now's the time ([videos](video.html?ryNtmkfeJk4) C Bb Eb)
 * Oleo ([videos](video.html?9IY29EZb1pI) [C](pdf/Oleo.C.pdf) [Bb](pdf/Oleo.Bb.pdf) [Eb](pdf/Oleo.Eb.pdf))
 * On the sunny side of the street ([videos](video.html?bQz3ixEQWz8) C Bb Eb)
