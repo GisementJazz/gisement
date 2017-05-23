@@ -23,9 +23,7 @@ books/book.Eb.pdf: $(PDFS_C) $(PDFS_Eb)
 	convert pdf/*.Eb.pdf books/book.Eb.pdf
 
 mscz2pdf_C: $(PDFS_C)
-
 mscz2pdf_Bb: $(PDFS_Bb)
-
 mscz2pdf_Eb: $(PDFS_Eb)
 
 pdf/%.C.pdf:
