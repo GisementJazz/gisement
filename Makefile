@@ -13,18 +13,23 @@ book_C: books/book.C.pdf
 book_Bb: books/book.Bb.pdf
 book_Eb: books/book.Eb.pdf
 
-books/book.C.pdf: $(PDFS_C)
+books/book.C.pdf: imports_C $(PDFS_C)
 	convert pdf/*.C.pdf books/book.C.pdf
-
-books/book.Bb.pdf: $(PDFS_C) $(PDFS_Bb)
+books/book.Bb.pdf: imports_Bb $(PDFS_C) $(PDFS_Bb)
 	convert pdf/*.Bb.pdf books/book.Bb.pdf
-
-books/book.Eb.pdf: $(PDFS_C) $(PDFS_Eb)
+books/book.Eb.pdf: imports_Eb $(PDFS_C) $(PDFS_Eb)
 	convert pdf/*.Eb.pdf books/book.Eb.pdf
 
 mscz2pdf_C: $(PDFS_C)
 mscz2pdf_Bb: $(PDFS_Bb)
 mscz2pdf_Eb: $(PDFS_Eb)
+
+imports_C:
+	cp import_rb/*.C.pdf pdf/
+imports_Bb:
+	cp import_rb/*.Bb.pdf pdf/
+imports_Eb:
+	cp import_rb/*.Eb.pdf pdf/
 
 pdf/%.C.pdf:
 	mscore "$(subst pdf,mscz,$@)" -o "$@"
