@@ -24,7 +24,7 @@
 * Black orpheus (Manha de carnaval) ([videos](video.html?THYtgT4A46A) C Bb Eb)
 * Blue bossa ([videos](video.html?rVnfBj_kOH8/6TvD3snfSig) C Bb Eb)
 * Blue in green ([videos](video.html?PoPL7BExSQU) [C](pdf/Blue in green.C.pdf) [Bb](pdf/Blue in green.Bb.pdf) [Eb](pdf/Blue in green.Eb.pdf))
-* Bluesette ([videos](video.html?Oi4G6UmYK9U) C Bb Eb)
+* Bluesette ([videos](video.html?Oi4G6UmYK9U) [C](pdf/Bluesette.C.pdf) Bb Eb)
 * Body and soul ([videos](video.html?yC4P4B2kl4Q) C Bb Eb)
 * But not for me ([videos](video.html?ymswCl3ucRY) [C](pdf/But not for me.C.pdf) [Bb](pdf/But not for me.Bb.pdf) [Eb](pdf/But not for me.Eb.pdf))
 * Bye bye Blackbird ([videos](video.html?KV2lNHfSXBQ) C Bb Eb)
