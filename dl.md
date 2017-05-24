@@ -45,7 +45,7 @@
 * Fly me to the moon ([videos](video.html?EX1gM7bXfVU) C Bb Eb)
 * Footprints ([videos](video.html?3XvJFW0DHbU/PDD5znpAhsM/_oNKiE7N5Q0) C Bb Eb)
 * Gentle rain ([videos](video.html?Knk0Wgkik9U) C Bb Eb)
-* Girl from Ipanema ([videos](video.html?YbczMo3RP3E) C Bb Eb)
+* Girl from Ipanema (The) ([videos](video.html?YbczMo3RP3E) C Bb Eb)
 * God bless the child ([videos](video.html?fNT0MPIG6ss) C Bb Eb)
 * Goodbye pork pie hat ([videos](video.html?sxz9eZ1Aons) [C](pdf/Goodbye pork pie hat.C.pdf) [Bb](pdf/Goodbye pork pie hat.Bb.pdf) [Eb](pdf/Goodbye pork pie hat.Eb.pdf))
 * Green dolphin street ([videos](video.html?afdjNq_TKVI/xGVdAlxlp18/ePScRElDHOY) C Bb Eb)
