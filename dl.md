@@ -86,7 +86,7 @@
 * No more blues (Chega de saudade) ([videos](video.html?-c6Zbi3tbMg) [C](pdf/No more blues (Chega de saudade).C.pdf) Bb Eb)
 * Nostalgia in Times Square ([videos](video.html?yO4uzZ2j050) [C](pdf/Nostalgia in Times Square.C.pdf) [Bb](pdf/Nostalgia in Times Square.Bb.pdf) [Eb](pdf/Nostalgia in Times Square.Eb.pdf))
 * Now's the time ([videos](video.html?ryNtmkfeJk4) C Bb Eb)
-* Oleo ([videos](video.html?HVduFJxEKOQ/Gsg-oDVy9b4/9IY29EZb1pI/8aCsgHPp9mU/os6QgROhEF8/06zQFiJbXAQ) [C](pdf/Oleo.C.pdf) [Bb](pdf/Oleo.Bb.pdf) [Eb](pdf/Oleo.Eb.pdf))
+* Oleo ([videos](video.html?HVduFJxEKOQ/Gsg-oDVy9b4/9IY29EZb1pI/8aCsgHPp9mU/os6QgROhEF8/06zQFiJbXAQ/MiJD9j255Bw/1gki0RZ8SUo/_RPkohp10EQ/JnUacPKi8bQ/x5Uy_y0WL3o/NBRe3v78oAA/yz-PjwJFe4A) [C](pdf/Oleo.C.pdf) [Bb](pdf/Oleo.Bb.pdf) [Eb](pdf/Oleo.Eb.pdf))
 * On the sunny side of the street ([videos](video.html?bQz3ixEQWz8) C Bb Eb)
 * One note samba ([videos](video.html?KBzUuEaBuJY) [C](pdf/One note samba.C.pdf) [Bb](pdf/One note samba.Bb.pdf) [Eb](pdf/One note samba.Eb.pdf))
 * Ornithology ([videos](video.html?) [C](pdf/Ornithology.C.pdf) Bb Eb)
