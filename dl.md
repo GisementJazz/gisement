@@ -114,7 +114,7 @@
 * Sunny ([videos](video.html?) [C](pdf/Sunny.C.pdf) Bb Eb)
 * Take five ([videos](video.html?GKu4_7_ppzk) [C](pdf/Take five.C.pdf) [Bb](pdf/Take five.Bb.pdf) [Eb](pdf/Take five.Eb.pdf))
 * Take the A train ([videos](video.html?BJ_4cRG8B1g/cb2w2m1JmCY) C Bb Eb)
-* Tenor madness ([videos](video.html?7SaIuR4K2O0/wJYqqA1U0mc?start=30) C Bb Eb)
+* Tenor madness ([videos](video.html?7SaIuR4K2O0/wJYqqA1U0mc?start=30/6zaZzNebaLg) C Bb Eb)
 * There is no greater love ([videos](video.html?zMAMMvlPsaU) C Bb Eb)
 * There will never be another you ([videos](video.html?eO_IEv7SzVM) C Bb Eb)
 * Tune up ([videos](video.html?1XhzEmbBD5s/pxRA7uTaLYM) [C](pdf/Tune up.C.pdf) [Bb](pdf/Tune up.Bb.pdf) [Eb](pdf/Tune up.Eb.pdf))
