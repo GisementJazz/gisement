@@ -118,7 +118,7 @@
 * There is no greater love ([videos](video.html?zMAMMvlPsaU) C Bb Eb)
 * There will never be another you ([videos](video.html?eO_IEv7SzVM) C Bb Eb)
 * Tune up ([videos](video.html?1XhzEmbBD5s/pxRA7uTaLYM) [C](pdf/Tune up.C.pdf) [Bb](pdf/Tune up.Bb.pdf) [Eb](pdf/Tune up.Eb.pdf))
-* Up jumped spring (videos [C](pdf/Up jumped spring.C.pdf) [Bb](pdf/Up jumped spring.Bb.pdf) [Eb](pdf/Up jumped spring.Eb.pdf))
+* Up jumped spring ([videos](video.html?khby51sf82s) [C](pdf/Up jumped spring.C.pdf) [Bb](pdf/Up jumped spring.Bb.pdf) [Eb](pdf/Up jumped spring.Eb.pdf))
 * Watermelon man ([videos](video.html?VoDzNYmEg2w/RzPZvKSdN7g/S8tiL14J-bs) C Bb Eb)
 * Wave ([videos](video.html?w73hEZKnDeA) C Bb Eb)
 * We'll be together again ([videos](video.html?-hhpRZZmVec) [C](pdf/We_ll be together again.C.pdf) [Bb](pdf/We_ll be together again.Bb.pdf) [Eb](pdf/We_ll be together again.Eb.pdf))
