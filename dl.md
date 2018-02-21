@@ -31,7 +31,7 @@
 * Cantaloupe Island ([videos](video.html?eU9KQrWigI0/2VN8zH366M8/KPxlTRwlm0o?start=225) C Bb Eb)
 * Caravan ([videos](video.html?RE3LwtdcCVM/Hsum9ortSFc/Cx2tvfG5DHg) C Bb Eb)
 * Chameleon ([videos](video.html?oweK8H40kZk/4UklUe84Vb0) [C](pdf/Chameleon.C.pdf) [Bb](pdf/Chameleon.Bb.pdf) [Eb](pdf/Chameleon.Eb.pdf))
-* Chicken (The) ([videos](video.html?LjinwnyZgnE/aPIljv0KKVw/-Ej9TxYo5lo/DVCTeCRu7Bg/sGtjL4BFv90/wLmtuhaCc2c) C Bb Eb)
+* Chicken (The) ([videos](video.html?7vn0w-zHwFw/LjinwnyZgnE/aPIljv0KKVw/-Ej9TxYo5lo/DVCTeCRu7Bg/sGtjL4BFv90/wLmtuhaCc2c) C Bb Eb)
 * Close your eyes ([videos](video.html?H_IgK3SU03M) C Bb Eb)
 * Come rain or come shine ([videos](video.html?) [C](pdf/Come rain or come shine.C.pdf) [Bb](pdf/Come rain or come shine.Bb.pdf) [Eb](pdf/Come rain or come shine.Eb.pdf))
 * Corcovado ([videos](video.html?5F3wHdDu1bw) C Bb Eb)
