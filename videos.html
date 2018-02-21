@@ -28,7 +28,7 @@
             $("<a/>").attr("href", item.html_url)
                 .html(item.commit.message)
                 .appendTo(li);
-            li.append(", " + date.replace('T',' ').replace('Z',' ');
+            li.append(", " + date.replace('T',' ').replace('Z',' '));
             if ( i === 100 ) {  // max items
                 return false;
             }
