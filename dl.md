@@ -58,6 +58,7 @@
 * I remember Clifford ([videos](video.html?Nr7wcGmh12A) C Bb Eb)
 * I thought about you ([videos](video.html?) [C](pdf/I thought about you.C.pdf) Bb Eb)
 * I'm beginning to see the light ([videos](video.html?) [C](pdf/I_m beginning to see the light.C.pdf) [Bb](pdf/I_m beginning to see the light.Bb.pdf) [Eb](pdf/I_m beginning to see the light.Eb.pdf))
+* I'm beginning to see the light G (videos [C](pdf/I_m beginning to see the light G.C.pdf) [Bb](pdf/I_m beginning to see the light G.Bb.pdf) [Eb](pdf/I_m beginning to see the light G.Eb.pdf))
 * Impressions ([videos](video.html?iqg2Op0tbzM/m5l1OTkNGFk) [C](pdf/Impressions.C.pdf) [Bb](pdf/Impressions.Bb.pdf) [Eb](pdf/Impressions.Eb.pdf))
 * In a sentimental mood ([videos](video.html?45dS-cT2PTc/evetQE_10x4/q2bbBFNrpOk) [C](pdf/In a sentimental mood.C.pdf) [Bb](pdf/In a sentimental mood.Bb.pdf) [Eb](pdf/In a sentimental mood.Eb.pdf))
 * In Walked Bud ([videos](video.html?FuHjgKQDofs) [C](pdf/In Walked Bud.C.pdf) [Bb](pdf/In Walked Bud.Bb.pdf) [Eb](pdf/In Walked Bud.Eb.pdf))
