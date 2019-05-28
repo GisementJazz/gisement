@@ -91,7 +91,7 @@
 * On the sunny side of the street ([videos](video.html?bQz3ixEQWz8) C Bb Eb)
 * One note samba ([videos](video.html?KBzUuEaBuJY) [C](pdf/One note samba.C.pdf) [Bb](pdf/One note samba.Bb.pdf) [Eb](pdf/One note samba.Eb.pdf))
 * Ornithology ([videos](video.html?) [C](pdf/Ornithology.C.pdf) Bb Eb)
-* Out of nowhere ([videos](video.html?qBrcY6svyWE) C Bb Eb)
+* Out of nowhere ([videos](video.html?qBrcY6svyWE/ny4QwRBgogg) C Bb Eb)
 * Out of the past ([videos](video.html?v-5dZknjC5g) C Bb Eb)
 * Pent-up house ([videos](video.html?) [C](pdf/Pent-up house.C.pdf) Bb Eb)
 * Perdido ([videos](video.html?8JZ75IX7Dac) C Bb Eb)
