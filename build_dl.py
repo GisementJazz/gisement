@@ -30,7 +30,7 @@ def video_link(slug):
         return "videos"
     with open(videos_file) as f:
         codes = [line.strip() for line in f.readlines()]
-    return "[videos](video.html?" + "/".join(codes) + ")"
+    return "[videos](video.html?" + "/".join(codes) + "/" + slug + ")"
 
 def links(slug):
     pdfs = [pdf_link(slug, key) for key in ["C", "Bb", "Eb"]]

@@ -18,6 +18,8 @@ if (queryString == "") {
     document.write("<h1>Pas de vidéo pour ce morceau !</h1>");
 } else {
     var codes = queryString.split('/');
+    var title = decodeURI(codes.pop());
+    document.title = title;
     codes.forEach(function(code) {
         document.write('<iframe width="560" height="315" ');
         document.write('src="https://www.youtube.com/embed/' + code + '" ');
